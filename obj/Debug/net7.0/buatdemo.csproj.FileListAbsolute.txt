@@ -1,0 +1,5 @@
+/Users/macbook/Desktop/buatdemo/obj/Debug/net7.0/buatdemo.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/buatdemo/obj/Debug/net7.0/buatdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/buatdemo/obj/Debug/net7.0/buatdemo.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/buatdemo/obj/Debug/net7.0/buatdemo.AssemblyInfo.cs
+/Users/macbook/Desktop/buatdemo/obj/Debug/net7.0/buatdemo.csproj.CoreCompileInputs.cache

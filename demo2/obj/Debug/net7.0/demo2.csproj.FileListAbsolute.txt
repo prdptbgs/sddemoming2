@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.AssemblyInfo.cs
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/buatdemo/demo2/bin/Debug/net7.0/demo2
+/Users/macbook/Desktop/buatdemo/demo2/bin/Debug/net7.0/demo2.deps.json
+/Users/macbook/Desktop/buatdemo/demo2/bin/Debug/net7.0/demo2.runtimeconfig.json
+/Users/macbook/Desktop/buatdemo/demo2/bin/Debug/net7.0/demo2.dll
+/Users/macbook/Desktop/buatdemo/demo2/bin/Debug/net7.0/demo2.pdb
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.dll
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/refint/demo2.dll
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.pdb
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/demo2.genruntimeconfig.cache
+/Users/macbook/Desktop/buatdemo/demo2/obj/Debug/net7.0/ref/demo2.dll
